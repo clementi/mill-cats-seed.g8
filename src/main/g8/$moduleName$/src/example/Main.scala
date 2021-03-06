@@ -1,6 +1,6 @@
 package example
 
-import cats.effect.{IOApp, ExitCode}
+import cats.effect.{IO, IOApp, ExitCode}
 import cats.effect.Console.io._
 
 object Main extends IOApp {
