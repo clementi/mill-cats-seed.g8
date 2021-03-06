@@ -16,5 +16,5 @@ cs install giter8
 To create a new project just run:
 
 ```sh
-g8 scalameta/mill-cats-seed.g8
+g8 clementi/mill-cats-seed.g8
 ```
